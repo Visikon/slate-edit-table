@@ -1,9 +1,9 @@
 document:
   nodes:
-    - kind: block
+    - object: block
       type: paragraph
-      nodes: 
-        - kind: text
-          leaves: 
-            - kind: leaf
+      nodes:
+        - object: text
+          leaves:
+            - object: leaf
             - text: ""
